@@ -29,7 +29,6 @@
 - 🎓 Currently studying: **Software Engineering @ IUS**
 - 🌱 Currently learning: **Advanced Full Stack Development**
 - 💬 Ask me about: **React, Node.js, Java, Python**
-- ⚡ Fun fact: **I can solve a Rubik's cube 🧩**
 
 ---
 
