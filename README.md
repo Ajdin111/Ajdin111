@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
+</div>
+
+---
+
 # 👋 Hi, I'm Ajdin Mujkanović
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&width=435&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
@@ -46,19 +52,6 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajdin111&show_icons=true&theme=radical&hide_border=true" alt="Ajdin's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajdin111&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajdin111&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
