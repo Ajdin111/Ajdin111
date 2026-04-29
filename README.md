@@ -65,29 +65,12 @@
 ### 🔥 What I'm Up To
 
 - 🌱 Currently building: **Intelligent Event Management System** (FastAPI + React + AI/ML)
-- 📚 Currently learning: **FastAPI, PostgreSQL, and integrating ML models into production apps**
+- 📚 Currently learning: **FastAPI, NodeJS, PostgreSQL, and integrating ML models into production apps**
 - 💬 Ask me about: **React, Webflow, JavaScript, Java, OOP**
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajdin111&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajdin111&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajdin111&theme=radical&hide_border=true&layout=compact" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajdin111&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
 
 ### 🌐 Connect With Me
 
